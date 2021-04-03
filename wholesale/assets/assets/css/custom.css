@@ -1,0 +1,106 @@
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 600 !important;
+}
+        
+.affix + .container-fluid {
+    padding-top: 70px;
+}
+        
+#menu {
+    text-align: center;
+}
+        
+.fader {
+    /* Positioning elements in lines */
+    display: inline-block;
+    /* This is necessary for position:absolute to work as desired */
+    position: relative;
+    /* Preventing zoomed images to grow outside their elements */
+    overflow: hidden;
+}
+        
+.fader img {
+    /* Stretching the images to fill whole elements */
+    width: 100%;
+    height: 100%;
+    /* Preventing blank space below the image */
+    line-height: 0;
+    /* A one-second transition was to disturbing for me */
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+        
+.fader img:hover {
+    /* Making images appear bigger and transparent on mouseover */
+    opacity: 0.5;
+}
+.form-style-4 input[type=text],
+{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 16px;
+}
+.form-style-4 input{
+    font: initial ;
+}
+.form-style-4 label {
+    display:block;
+    margin-bottom: 10px;
+}
+.form-style-4 label > span{
+    display: inline-block;
+    float: left;
+    width: 150px;
+}
+.form-style-4 input[type=text],
+.form-style-4 input[type=email] 
+{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #83A4C5;
+    width: 160px;
+    outline: none;
+    padding: 0px 0px 0px 0px;
+}
+.text-filed input[type=text],
+.text-filed input[type=email] 
+{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #83A4C5;
+    width: 45% !important;
+    outline: none;
+    padding: 0px 0px 0px 0px;
+}
+.form-style-4 textarea:focus, 
+.form-style-4 input[type=text]:focus,
+.form-style-4 input[type=email]:focus,
+.form-style-4 input[type=email] :focus
+{
+    border-bottom: 2px solid #2874f0;
+}
+
+.form-style-4 input[type=submit]:hover,
+.form-style-4 input[type=button]:hover{
+background: #394D61;
+}
+#dis-img img{
+    float: left !important;
+}
+.Courier-bg{    
+    background: #fff;
+    padding: 3% 6% 3% 6%;
+    margin-bottom: 6%;
+    box-shadow: -6px 9px 2px -6px #d8d8d8;
+}
+.Courier-bg h4{
+   border-bottom: 1px solid #dddddd; 
+   padding-bottom: 4%;
+}
+.text-filed{
+    margin-top: 5%;
+}

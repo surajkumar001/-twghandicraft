@@ -1,0 +1,273 @@
+<style type="text/css">
+    .prof{
+            color: #333 !important;
+    
+    padding-left: 7% !important;
+    }
+    .wd100{
+        width: 100% !important;
+    }
+</style>
+    <body class="cnt-home" onload="delivery();">
+        
+             <input type="hidden" id="url" value="<?php echo base_url(); ?>">
+        <!-- ============================================== HEADER ============================================== -->
+    <header class="header-style-1" >
+
+        <!-- ============================================== TOP MENU ============================================== -->
+        <div class="top-bar animate-dropdown">
+            <div class="container">
+                <div class="header-top-inner">
+                    <div class="cnt-account">
+                        <ul class="list-unstyled">
+                            <?php if(empty($_SESSION['session_id'])){ ?>
+                            <li><a href="<?php echo base_url('login'); ?>"><i class="icon fa fa fa-user"></i>Login & Signup</a></li>
+                        <?php } else{ ?>
+                          <!--   <li class="dropdown-toggle" data-toggle="dropdown"><a href="#"><i class="icon fa fa fa-user"></i><?php echo $_SESSION['session_name']; ?>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">ABC</a></li>
+                                        <li><a href="#">ABC</a></li>
+                                    </ul>
+                                        </li> -->
+                                        <li>
+                                        <div class="dropdown">
+    <button class="dropdown-toggle" type="button" data-toggle="dropdown" style="color: #fff"><?php echo $_SESSION['session_name']; ?>
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li class="wd100"><a href="<?php echo base_url('Artnhub/profile'); ?>" class="prof">My Profile</a></li>
+      <li class="wd100"><a href="<?php echo base_url('Artnhub/orders'); ?>" class="prof">My Order</a></li> 
+      <li class="wd100"><a href="<?php echo base_url('Artnhub/logout'); ?>" class="prof">Logout</a></li>
+      
+  </div>
+
+</li>
+ <li><a href="<?php echo base_url('Artnhub/wishlist'); ?>"><i class="icon fa fa-heart"></i>Wishlist</a></li>
+                            <li><a href="<?php echo base_url('Artnhub/orders'); ?>"><i class="icon fa fa-shopping-cart"></i>My Orders</a></li>
+                             <?php } ?>
+                           
+
+                        </ul>
+                    </div>
+                    <!--/.cnt-account -->
+                        <div class="clearfix"></div>
+                    </div>
+                    <!-- /.header-top-inner -->
+                </div>
+                <!-- /.container -->
+            </div>
+            <!-- /.header-top -->
+            <!-- ============================================== TOP MENU : END ============================================== -->
+            <div class="main-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-3 logo-holder">
+                            <!-- ============================================================= LOGO ============================================================= -->
+                            <div class="logo mg-minus-top">
+                                <a href="<?php echo base_url(); ?>"> <img src="<?php echo base_url(); ?>assets/assets/images/logo.png" alt="logo"> </a>
+                            </div>
+                            <!-- /.logo -->
+                            <!-- ============================================================= LOGO : END ============================================================= -->
+                        </div>
+                        <!-- /.logo-holder -->
+
+                        <div class="col-xs-12 col-sm-12 col-md-6 top-search-holder">
+                            <!-- /.contact-row -->
+<!-- ============================================================= SEARCH AREA ============================================================= -->
+                            <div class="search-area">
+                                <form>
+                                    <div class="control-group">
+                                       <input list="browsers" name="search_text" class="search-field" id="search_text"  placeholder="What service do you need?"  onkeyup="searchkey();">
+                                       
+                                        <a class="search-button" href="#"></a>
+                                    </div>
+                                     
+
+                                </form>
+                            </div>
+                             <datalist id="browsers">
+    <?php foreach ($users as  $value){ ?>
+        
+   
+  <option value="<?php echo $value;?>"></option>
+
+     <?php } ?>
+</datalist> 
+<!-- /.search-area -->
+<!-- ============================================================= SEARCH AREA : END ============================================================= -->
+                        </div>
+                        <!-- /.top-search-holder -->
+
+<div class="col-xs-12 col-sm-12 col-md-3 animate-dropdown top-cart-row">
+<!-- ============================================================= SHOPPING CART DROPDOWN ============================================================= -->
+                            <?php
+                                $id=$_SESSION['session_id'];
+
+                $where='user_id';
+
+                $table='cart';
+
+                $data=$this->Adminmodel->select_com_where($table,$where,$id);
+
+                foreach ($data as  $cart) {
+                    $cartusersum+=$cart['cart_price'];
+                }
+                foreach ($_SESSION['cart'] as  $value) {
+                    $cartsum+=$value['cart_price'];
+                }
+
+ ?>
+                            <div class="dropdown dropdown-cart">
+                                <?php if(!empty($data || $_SESSION['cart'] )){ ?>
+                                <a href="#" class="dropdown-toggle lnk-cart" data-toggle="dropdown">
+                                <?php } else { ?>
+                                <a href="#" class="dropdown-toggle lnk-cart" >
+
+                                <?php } ?>
+                                    <div class="items-cart-inner">
+                                        <div class="basket"> <i class="glyphicon glyphicon-shopping-cart"></i> </div>
+                                        <div class="basket-item-count"><span class="count"><?php if(empty($_SESSION['session_id'])){ echo count($_SESSION['cart']); }else{ echo count($data);  }?></span></div>
+                                        <div class="total-price-basket"> <span class="lbl">cart -</span> <span class="total-price"> <span class="sign">Rs</span><span class="value"><?php if(empty($_SESSION['session_id'])){ echo $cartsum; }else{ echo $cartusersum;  }?>.00</span> </span>
+                                        </div>
+                                    </div>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <?php if(empty($_SESSION['session_id'])){
+
+
+                                         foreach ($_SESSION['cart'] as  $value) {
+                                                $id=$value['product_id'];
+
+                                                 $where='id';
+
+                                                    $table='product';
+
+                                                 $product=$this->Adminmodel->select_com_where($table,$where,$id);
+                                                 if(empty($product)){
+                                                       $id=$value['product_id'];
+
+                                                 $where='id';
+
+                                                    $table='product_detail';
+
+                                                 $product=$this->Adminmodel->select_com_where($table,$where,$id); 
+                                                 }
+                                                // pr($value);
+                                               $cartsums+=$value['cart_price'];
+
+                                         ?>
+                                         <div class="cart-item product-summary">
+                                            <div class="row">
+                                                <div class="col-xs-4">
+                                                    <div class="image">
+                                                        <a href="#"><img src="<?php echo $product[0]['main_image1']; ?>" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xs-7">
+                                                    <h3 class="name"><a href="#"><?php echo substr($product[0]['pro_name'],0,22); ?>...</a></h3>
+                                                    <div class="price">Rs<?php echo $value['cart_price']; ?>.00</div>
+                                                </div>
+                                                <div class="col-xs-1 action"> <a href="#" onclick="delcart('<?php echo $value['product_id']; ?>');"><i class="fa fa-trash"></i></a> </div>
+                                            </div>
+                                        </div>
+                                    <?php } ?>
+                                     <div class="clearfix"></div>
+                                        <hr>
+                                        <div class="clearfix cart-total">
+                                            <div class="pull-right"> <span class="text">Sub Total :</span><span class='price'><?php echo $cartsums; ?>.00</span> </div>
+                                            <div class="clearfix"></div>
+                                            <a href="<?php echo base_url('cart'); ?>" class="btn btn-upper btn-primary btn-block m-t-20">Cart</a> </div>
+                                    <?php }else {
+                                          foreach ($data as  $cart) {
+                                              $id=$cart['product_id'];
+
+                                                 $where='id';
+
+                                                    $table='product';
+
+                                                 $product=$this->Adminmodel->select_com_where($table,$where,$id);
+                                                    if(empty($product)){
+                                                       $id=$cart['product_id'];
+
+                                                 $where='id';
+
+                                                    $table='product_detail';
+
+                                                 $product=$this->Adminmodel->select_com_where($table,$where,$id); 
+                                                 }
+                                        $cartusersums+=$cart['cart_price'];
+                                        ?>
+                                        <div class="cart-item product-summary">
+                                            <div class="row">
+                                                <div class="col-xs-4">
+                                                    <div class="image">
+                                                        <a href="#"><img src="<?php echo $product[0]['main_image1']; ?>" alt=""></a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xs-7">
+                                                    <h3 class="name"><a href="#"><?php echo substr($product[0]['pro_name'],0,22); ?>...</a></h3>
+                                                    <div class="price">Rs<?php echo $cart['cart_price']; ?>.00</div>
+                                                </div>
+                                                <div class="col-xs-1 action"> <a href="#" onclick="delusercart('<?php echo $cart['product_id']; ?>');"><i class="fa fa-trash"></i></a> </div>
+                                            </div>
+                                        </div>
+                                    <?php } ?>
+                                     <div class="clearfix"></div>
+                                        <hr>
+                                        <div class="clearfix cart-total">
+                                            <div class="pull-right"> <span class="text">Sub Total :</span><span class='price'>Rs<?php echo $cartusersums; ?>.00</span> </div>
+                                            <div class="clearfix"></div>
+                                            <a href="<?php echo base_url('cart'); ?>" class="btn btn-upper btn-primary btn-block m-t-20">Cart</a> </div>
+
+                                    <?php  } ?>
+                                        <!-- /.cart-item -->
+                                       
+                                        <!-- /.cart-total-->
+
+                                    </li>
+                                </ul>
+                                <!-- /.dropdown-menu-->
+                            </div>
+                            <!-- /.dropdown-cart -->
+
+<!-- ============================================================= SHOPPING CART DROPDOWN : END============================================================= -->
+                        </div>
+                        <!-- /.top-cart-row -->
+                    </div>
+                    <!-- /.row -->
+
+                </div>
+                <!-- /.container -->
+
+            </div>
+            <!-- /.main-header -->
+
+            <script type="text/javascript">
+                
+  
+  function searchkey(){
+      var urls =$("#url").val();
+     
+        src = urls +"Artnhub/search";
+         $("#search_text").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: src,
+                    dataType: "json",
+                    data: {
+                        term : request.term
+                    },
+                    success: function(data) {
+
+                        response(data);
+                       
+                    }
+                });
+            },
+            minLength: 1,
+           
+        });
+    }
+
+            </script>

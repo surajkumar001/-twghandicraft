@@ -1,0 +1,488 @@
+[26-May-2018 16:09:56 UTC] PHP Fatal error:  Cannot redeclare RideModel::checkstrtotp() in /home/getcalendar/public_html/technowhizzit.com/findmyride/application/models/RideModel.php on line 150
+[14-Jun-2018 11:07:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/getcalendar/public_html/technowhizzit.com/findmyride/application/controllers/Admin.php on line 117
+[15-Jun-2018 06:52:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/getcalendar/public_html/technowhizzit.com/findmyride/system/database/drivers/mysqli/mysqli_driver.php on line 305
+[15-Jun-2018 06:52:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/getcalendar/public_html/technowhizzit.com/findmyride/system/database/drivers/mysqli/mysqli_driver.php on line 305
+[18-Jun-2018 04:19:44 UTC] PHP Fatal error:  Cannot redeclare Adminmodel::Edituser() in /home/getcalendar/public_html/technowhizzit.com/findmyride/application/models/Adminmodel.php on line 91
+[18-Jun-2018 04:20:24 UTC] PHP Fatal error:  Cannot redeclare Adminmodel::edituser() in /home/getcalendar/public_html/technowhizzit.com/findmyride/application/models/Adminmodel.php on line 91
+[25-Jun-2018 07:47:10 UTC] PHP Fatal error:  Maximum execution time of 200 seconds exceeded in /home/getcalendar/public_html/technowhizzit.com/findmyride/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[25-Jun-2018 07:54:50 UTC] PHP Fatal error:  Maximum execution time of 200 seconds exceeded in /home/getcalendar/public_html/technowhizzit.com/findmyride/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[25-Jun-2018 08:02:28 UTC] PHP Fatal error:  Maximum execution time of 200 seconds exceeded in /home/getcalendar/public_html/technowhizzit.com/findmyride/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[29-Jan-2019 09:51:23 UTC] PHP Fatal error:  Cannot redeclare Artnhub::logout() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 164
+[30-Jan-2019 09:03:03 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 446
+[30-Jan-2019 09:09:27 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 219
+[30-Jan-2019 09:11:47 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 219
+[30-Jan-2019 10:20:13 UTC] PHP Fatal error:  Call to undefined method Model::finish() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 653
+[30-Jan-2019 12:58:50 UTC] PHP Fatal error:  Cannot redeclare Admin::updatesubcategory() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1011
+[30-Jan-2019 12:58:52 UTC] PHP Fatal error:  Cannot redeclare Admin::updatesubcategory() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1011
+[30-Jan-2019 12:59:33 UTC] PHP Fatal error:  Cannot redeclare Admin::updatesubcategory() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1011
+[30-Jan-2019 13:00:00 UTC] PHP Fatal error:  Call to undefined method Adminmodel::delete_common() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1073
+[30-Jan-2019 13:12:06 UTC] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1073
+[31-Jan-2019 09:54:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 48
+[31-Jan-2019 09:58:41 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 48
+[31-Jan-2019 10:15:10 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 48
+[31-Jan-2019 10:15:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 48
+[31-Jan-2019 10:21:01 UTC] PHP Parse error:  syntax error, unexpected 'functi' (T_STRING), expecting variable (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1071
+[31-Jan-2019 10:21:04 UTC] PHP Parse error:  syntax error, unexpected ''disc_code'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1170
+[31-Jan-2019 10:21:07 UTC] PHP Parse error:  syntax error, unexpected ''disc_code'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1170
+[31-Jan-2019 10:21:19 UTC] PHP Parse error:  syntax error, unexpected 'functi' (T_STRING), expecting variable (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1071
+[31-Jan-2019 11:11:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1123
+[31-Jan-2019 11:12:00 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1123
+[31-Jan-2019 11:12:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1123
+[31-Jan-2019 11:13:36 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1124
+[31-Jan-2019 11:13:39 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1124
+[31-Jan-2019 11:13:40 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1124
+[01-Feb-2019 05:50:20 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 311
+[01-Feb-2019 05:50:23 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 311
+[01-Feb-2019 05:50:26 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 311
+[01-Feb-2019 05:50:31 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 311
+[01-Feb-2019 06:07:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/art/application/views/header.php on line 92
+[01-Feb-2019 06:07:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/art/application/views/header.php on line 92
+[01-Feb-2019 07:24:52 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 57
+[01-Feb-2019 07:24:59 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 57
+[01-Feb-2019 07:43:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 107
+[01-Feb-2019 07:43:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 107
+[01-Feb-2019 09:52:34 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 332
+[01-Feb-2019 09:52:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 332
+[01-Feb-2019 09:52:46 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 332
+[01-Feb-2019 10:21:42 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 330
+[01-Feb-2019 10:21:44 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 330
+[04-Feb-2019 05:01:20 UTC] PHP Fatal error:  Cannot redeclare Artnhub::delcartsession() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 413
+[04-Feb-2019 05:01:21 UTC] PHP Fatal error:  Cannot redeclare Artnhub::delcartsession() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 413
+[04-Feb-2019 05:01:23 UTC] PHP Fatal error:  Cannot redeclare Artnhub::delcartsession() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 413
+[04-Feb-2019 05:01:34 UTC] PHP Fatal error:  Cannot redeclare Artnhub::delcartsession() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 413
+[04-Feb-2019 05:01:36 UTC] PHP Fatal error:  Cannot redeclare Artnhub::delcartsession() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 413
+[04-Feb-2019 05:02:23 UTC] PHP Fatal error:  Cannot redeclare Artnhub::delcartsession() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 413
+[04-Feb-2019 05:24:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 135
+[04-Feb-2019 05:24:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 135
+[04-Feb-2019 05:24:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 135
+[04-Feb-2019 06:27:49 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting function (T_FUNCTION) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 471
+[04-Feb-2019 06:27:50 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting function (T_FUNCTION) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 471
+[04-Feb-2019 06:28:24 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting function (T_FUNCTION) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 471
+[04-Feb-2019 06:53:02 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 295
+[04-Feb-2019 06:53:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 295
+[04-Feb-2019 07:12:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 311
+[04-Feb-2019 07:12:20 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 311
+[04-Feb-2019 07:19:20 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 318
+[04-Feb-2019 07:19:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 318
+[04-Feb-2019 07:19:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 318
+[04-Feb-2019 07:39:55 UTC] PHP Fatal error:  Call to undefined function jason_encode() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 316
+[04-Feb-2019 07:39:56 UTC] PHP Fatal error:  Call to undefined function jason_encode() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 316
+[04-Feb-2019 07:41:22 UTC] PHP Parse error:  syntax error, unexpected 'pr' (T_STRING) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 319
+[04-Feb-2019 07:41:24 UTC] PHP Parse error:  syntax error, unexpected 'pr' (T_STRING) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 319
+[04-Feb-2019 07:44:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 311
+[04-Feb-2019 07:44:31 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 311
+[04-Feb-2019 07:46:24 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 308
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:46 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:47 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:41:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:42:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:22 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:22 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:22 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:22 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:22 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:22 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:22 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[04-Feb-2019 09:43:23 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[05-Feb-2019 05:08:41 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 558
+[05-Feb-2019 05:08:43 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 558
+[05-Feb-2019 05:08:49 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 558
+[05-Feb-2019 05:08:52 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 558
+[05-Feb-2019 06:23:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 536
+[05-Feb-2019 06:23:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 536
+[05-Feb-2019 07:11:05 UTC] PHP Parse error:  syntax error, unexpected '$val' (T_VARIABLE), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 754
+[05-Feb-2019 07:11:07 UTC] PHP Parse error:  syntax error, unexpected '$val' (T_VARIABLE), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 754
+[05-Feb-2019 07:47:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 259
+[05-Feb-2019 07:47:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 259
+[05-Feb-2019 09:41:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/views/checkout.php on line 90
+[05-Feb-2019 09:41:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/views/checkout.php on line 90
+[05-Feb-2019 10:10:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 293
+[05-Feb-2019 10:10:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 293
+[05-Feb-2019 10:10:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 293
+[05-Feb-2019 10:11:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 294
+[05-Feb-2019 10:11:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 294
+[05-Feb-2019 10:11:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 294
+[05-Feb-2019 10:11:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 294
+[05-Feb-2019 10:11:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 294
+[05-Feb-2019 10:11:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 294
+[05-Feb-2019 10:12:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 294
+[05-Feb-2019 10:21:33 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[05-Feb-2019 10:22:45 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[05-Feb-2019 10:22:54 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[05-Feb-2019 10:23:05 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[05-Feb-2019 10:25:40 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[05-Feb-2019 10:45:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/helpers/function_helper.php on line 227
+[05-Feb-2019 10:45:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/helpers/function_helper.php on line 227
+[05-Feb-2019 10:45:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/helpers/function_helper.php on line 227
+[05-Feb-2019 10:46:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/helpers/function_helper.php on line 225
+[05-Feb-2019 10:51:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vlmldqr0po8c/public_html/art/application/helpers/function_helper.php on line 228
+[05-Feb-2019 10:58:23 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vlmldqr0po8c/public_html/art/application/views/checkout.php on line 185
+[05-Feb-2019 12:46:34 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 277
+[05-Feb-2019 12:46:35 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 277
+[05-Feb-2019 12:46:58 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 277
+[05-Feb-2019 12:47:10 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/vlmldqr0po8c/public_html/art/application/views/cart.php on line 277
+[06-Feb-2019 04:48:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/views/checkout.php on line 258
+[06-Feb-2019 05:18:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 896
+[06-Feb-2019 05:18:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 896
+[06-Feb-2019 07:38:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 536
+[06-Feb-2019 08:47:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/art/application/views/checkout.php on line 361
+[06-Feb-2019 09:37:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 536
+[06-Feb-2019 10:04:01 UTC] PHP Fatal error:  Call to a member function insert_common() on null in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1012
+[06-Feb-2019 10:04:10 UTC] PHP Fatal error:  Call to a member function insert_common() on null in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1012
+[06-Feb-2019 10:05:06 UTC] PHP Fatal error:  Call to a member function insert_common() on null in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1012
+[06-Feb-2019 10:08:49 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1012
+[06-Feb-2019 10:08:53 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1012
+[06-Feb-2019 10:09:01 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1012
+[06-Feb-2019 10:09:54 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1012
+[06-Feb-2019 10:11:00 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1013
+[06-Feb-2019 10:15:04 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1026
+[06-Feb-2019 10:16:54 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1034
+[06-Feb-2019 10:19:18 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1034
+[06-Feb-2019 10:20:22 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1034
+[06-Feb-2019 10:21:53 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1034
+[06-Feb-2019 10:24:39 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1038
+[06-Feb-2019 10:25:10 UTC] PHP Fatal error:  Cannot access empty property in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1038
+[06-Feb-2019 11:24:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 536
+[06-Feb-2019 11:32:26 UTC] PHP Fatal error:  Call to undefined method Model::common_delete() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1068
+[06-Feb-2019 11:32:34 UTC] PHP Fatal error:  Call to undefined method Model::common_delete() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1068
+[07-Feb-2019 09:22:13 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[07-Feb-2019 09:22:15 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[07-Feb-2019 09:27:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 219
+[07-Feb-2019 09:27:13 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 219
+[07-Feb-2019 09:27:38 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 219
+[07-Feb-2019 09:38:34 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 219
+[07-Feb-2019 09:38:35 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 219
+[07-Feb-2019 10:09:24 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[07-Feb-2019 10:09:32 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[07-Feb-2019 10:09:36 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[08-Feb-2019 05:33:14 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 57
+[08-Feb-2019 07:13:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 462
+[08-Feb-2019 07:14:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vlmldqr0po8c/public_html/art/system/core/Common.php on line 461
+[08-Feb-2019 07:30:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vlmldqr0po8c/public_html/art/system/database/DB_driver.php on line 1849
+[08-Feb-2019 09:07:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vlmldqr0po8c/public_html/art/application/views/errors/html/error_php.php on line 17
+[11-Feb-2019 11:52:42 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1131
+[11-Feb-2019 11:52:45 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1131
+[12-Feb-2019 07:25:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1590
+[12-Feb-2019 07:25:07 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1590
+[12-Feb-2019 07:57:01 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1645
+[12-Feb-2019 07:57:02 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1645
+[12-Feb-2019 07:57:07 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1645
+[12-Feb-2019 07:57:10 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1645
+[12-Feb-2019 07:57:39 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1645
+[12-Feb-2019 07:57:45 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1645
+[12-Feb-2019 07:57:46 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1645
+[12-Feb-2019 07:57:52 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1645
+[12-Feb-2019 07:58:00 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1636
+[12-Feb-2019 07:58:53 UTC] PHP Fatal error:  Call to undefined method Adminmodel::productcsv() in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1636
+[12-Feb-2019 08:00:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 2009
+[12-Feb-2019 09:07:05 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 749
+[12-Feb-2019 10:14:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 962
+[12-Feb-2019 10:21:40 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 57
+[12-Feb-2019 10:22:31 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 57
+[12-Feb-2019 10:24:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 57
+[12-Feb-2019 10:24:38 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 57
+[12-Feb-2019 10:24:39 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 57
+[12-Feb-2019 11:01:49 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 147
+[12-Feb-2019 11:06:59 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 147
+[12-Feb-2019 11:07:01 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 147
+[12-Feb-2019 11:27:15 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 355
+[12-Feb-2019 11:33:32 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 355
+[12-Feb-2019 11:41:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1876
+[13-Feb-2019 12:17:37 UTC] PHP Parse error:  syntax error, unexpected ''pi' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 589
+[18-Feb-2019 05:19:23 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 376
+[18-Feb-2019 05:19:25 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 376
+[18-Feb-2019 05:19:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 376
+[18-Feb-2019 05:19:54 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 376
+[18-Feb-2019 05:20:21 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 334
+[18-Feb-2019 05:20:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 334
+[18-Feb-2019 05:21:15 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 334
+[18-Feb-2019 05:40:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/views/product_detail.php on line 429
+[18-Feb-2019 05:40:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/views/product_detail.php on line 429
+[18-Feb-2019 05:40:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/views/product_detail.php on line 429
+[18-Feb-2019 05:40:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/views/product_detail.php on line 429
+[18-Feb-2019 05:40:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/views/product_detail.php on line 429
+[18-Feb-2019 05:40:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/views/product_detail.php on line 429
+[18-Feb-2019 07:29:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/views/Manage_address.php on line 242
+[18-Feb-2019 07:29:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/views/Manage_address.php on line 242
+[18-Feb-2019 07:29:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/views/Manage_address.php on line 242
+[18-Feb-2019 07:30:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/views/Manage_address.php on line 269
+[18-Feb-2019 07:30:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/views/Manage_address.php on line 269
+[18-Feb-2019 07:31:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/views/Manage_address.php on line 269
+[18-Feb-2019 07:44:12 UTC] PHP Fatal error:  Cannot redeclare Artnhub::updateuser_address() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1404
+[18-Feb-2019 07:44:12 UTC] PHP Fatal error:  Cannot redeclare Artnhub::updateuser_address() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1404
+[18-Feb-2019 07:44:14 UTC] PHP Fatal error:  Cannot redeclare Artnhub::updateuser_address() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1404
+[18-Feb-2019 07:44:34 UTC] PHP Fatal error:  Cannot redeclare Artnhub::updateuser_address() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1404
+[18-Feb-2019 07:44:36 UTC] PHP Fatal error:  Cannot redeclare Artnhub::updateuser_address() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1404
+[18-Feb-2019 07:44:58 UTC] PHP Fatal error:  Cannot redeclare Artnhub::updateuser_address() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1404
+[18-Feb-2019 09:32:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 118
+[18-Feb-2019 09:32:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 118
+[18-Feb-2019 10:27:55 UTC] PHP Parse error:  syntax error, unexpected 'setcookie' (T_STRING) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 308
+[18-Feb-2019 10:27:57 UTC] PHP Parse error:  syntax error, unexpected 'setcookie' (T_STRING) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 308
+[18-Feb-2019 10:28:20 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 308
+[18-Feb-2019 10:28:25 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 308
+[18-Feb-2019 10:28:26 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 308
+[18-Feb-2019 10:28:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 308
+[18-Feb-2019 10:38:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 306
+[18-Feb-2019 10:40:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 306
+[18-Feb-2019 10:41:33 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 306
+[18-Feb-2019 10:41:35 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 306
+[18-Feb-2019 10:42:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 306
+[18-Feb-2019 10:42:04 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 306
+[18-Feb-2019 10:53:40 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/vlmldqr0po8c/public_html/art/application/views/product_detail.php on line 401
+[18-Feb-2019 10:53:42 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/vlmldqr0po8c/public_html/art/application/views/product_detail.php on line 401
+[19-Feb-2019 06:44:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 583
+[19-Feb-2019 06:44:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1043
+[19-Feb-2019 07:14:19 UTC] PHP Parse error:  syntax error, unexpected '"><option value="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1401
+[19-Feb-2019 07:14:20 UTC] PHP Parse error:  syntax error, unexpected '"><option value="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1401
+[19-Feb-2019 07:14:22 UTC] PHP Parse error:  syntax error, unexpected '"><option value="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1401
+[19-Feb-2019 07:14:33 UTC] PHP Parse error:  syntax error, unexpected '"><option value="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1401
+[19-Feb-2019 07:44:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 583
+[19-Feb-2019 07:48:51 UTC] PHP Fatal error:  Call to undefined method Adminmodel::searchproduct() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1399
+[19-Feb-2019 07:49:21 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 175
+[19-Feb-2019 07:49:21 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 175
+[19-Feb-2019 07:49:34 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 175
+[19-Feb-2019 07:52:13 UTC] PHP Parse error:  syntax error, unexpected ''.$id.'' (T_CONSTANT_ENCAPSED_STRING) in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 172
+[19-Feb-2019 07:52:21 UTC] PHP Parse error:  syntax error, unexpected ''.$id.'' (T_CONSTANT_ENCAPSED_STRING) in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 172
+[19-Feb-2019 11:40:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 30
+[19-Feb-2019 11:40:21 UTC] PHP Parse error:  syntax error, unexpected ''Admin/l' (T_ENCAPSED_AND_WHITESPACE) in /home/vlmldqr0po8c/public_html/art/application/controllers/Admin.php on line 1833
+[20-Feb-2019 06:57:48 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Adminmodel.php on line 805
+[20-Feb-2019 09:03:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 329
+[20-Feb-2019 09:04:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 329
+[20-Feb-2019 09:38:42 UTC] PHP Fatal error:  Call to undefined method Model::validotpemail() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 360
+[20-Feb-2019 09:38:48 UTC] PHP Fatal error:  Call to undefined method Model::validotpemail() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 360
+[20-Feb-2019 09:38:51 UTC] PHP Fatal error:  Call to undefined method Model::validotpemail() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 360
+[20-Feb-2019 09:40:04 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 92
+[20-Feb-2019 12:44:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vlmldqr0po8c/public_html/art/application/views/ordermail.php on line 110
+[20-Feb-2019 12:44:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vlmldqr0po8c/public_html/art/application/views/ordermail.php on line 110
+[20-Feb-2019 12:45:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vlmldqr0po8c/public_html/art/application/views/ordermail.php on line 110
+[20-Feb-2019 13:00:07 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[20-Feb-2019 13:00:31 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[20-Feb-2019 13:00:44 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[20-Feb-2019 13:00:48 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[20-Feb-2019 13:08:26 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[20-Feb-2019 13:08:39 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[20-Feb-2019 13:10:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1059
+[20-Feb-2019 13:11:01 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[20-Feb-2019 13:11:08 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[21-Feb-2019 04:40:16 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[21-Feb-2019 04:40:25 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[21-Feb-2019 04:42:30 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[21-Feb-2019 04:43:15 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/art/application/models/Model.php on line 62
+[21-Feb-2019 04:47:35 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common_where() in /home/vlmldqr0po8c/public_html/art/application/controllers/Artnhub.php on line 1321
+[25-Feb-2019 05:13:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vlmldqr0po8c/public_html/explacia.in/art/system/core/Common.php on line 461
+[25-Feb-2019 05:25:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vlmldqr0po8c/public_html/explacia.in/art/system/core/Common.php on line 146
+[25-Feb-2019 10:51:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Artnhub.php on line 1034
+[25-Feb-2019 12:30:46 UTC] PHP Parse error:  syntax error, unexpected '$finalgst' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/explacia.in/art/application/views/cart.php on line 264
+[25-Feb-2019 12:30:48 UTC] PHP Parse error:  syntax error, unexpected '$finalgst' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/explacia.in/art/application/views/cart.php on line 264
+[28-Feb-2019 06:47:32 UTC] PHP Fatal error:  Cannot redeclare Admin::Editcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3367
+[28-Feb-2019 06:47:34 UTC] PHP Fatal error:  Cannot redeclare Admin::Editcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3367
+[28-Feb-2019 06:47:37 UTC] PHP Fatal error:  Cannot redeclare Admin::Editcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3367
+[28-Feb-2019 06:49:44 UTC] PHP Fatal error:  Cannot redeclare Admin::deletecategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3386
+[28-Feb-2019 06:49:46 UTC] PHP Fatal error:  Cannot redeclare Admin::deletecategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3386
+[28-Feb-2019 06:50:40 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3327
+[28-Feb-2019 06:50:52 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3327
+[28-Feb-2019 06:53:51 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1507
+[28-Feb-2019 06:54:11 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1507
+[28-Feb-2019 06:58:50 UTC] PHP Fatal error:  Cannot redeclare Admin::Addparentcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 2886
+[28-Feb-2019 07:06:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1903
+[28-Feb-2019 07:07:14 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listsubcategory2() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3020
+[28-Feb-2019 07:07:49 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listsubcategory2() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3020
+[28-Feb-2019 07:07:51 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listsubcategory2() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3020
+[28-Feb-2019 07:07:53 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listsubcategory2() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3020
+[28-Feb-2019 07:11:44 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Addsubcategory2() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3010
+[28-Feb-2019 07:12:15 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Editsubcategory2() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3071
+[28-Feb-2019 07:12:16 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Editsubcategory2() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 3071
+[28-Feb-2019 07:15:18 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1507
+[28-Feb-2019 07:15:25 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Listcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1507
+[28-Feb-2019 07:38:20 UTC] PHP Parse error:  syntax error, unexpected '$title' (T_VARIABLE) in /home/vlmldqr0po8c/public_html/explacia.in/art/application/views/navbar.php on line 25
+[28-Feb-2019 07:53:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vlmldqr0po8c/public_html/explacia.in/art/application/views/category.php on line 167
+[28-Feb-2019 07:53:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vlmldqr0po8c/public_html/explacia.in/art/application/views/category.php on line 167
+[28-Feb-2019 07:54:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vlmldqr0po8c/public_html/explacia.in/art/application/views/category.php on line 167
+[28-Feb-2019 09:40:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1903
+[28-Feb-2019 11:42:04 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Editcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1556
+[28-Feb-2019 11:42:06 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Editcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1556
+[28-Feb-2019 11:42:14 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Editcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1556
+[28-Feb-2019 11:42:23 UTC] PHP Fatal error:  Call to undefined method Adminmodel::Editcategory() in /home/vlmldqr0po8c/public_html/explacia.in/art/application/controllers/Admin.php on line 1556
+[18-Mar-2019 11:02:22 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Mar-2019 11:02:26 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Mar-2019 11:02:43 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Mar-2019 11:03:01 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Mar-2019 11:03:03 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Mar-2019 11:03:04 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Mar-2019 11:15:25 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Mar-2019 07:46:25 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Mar-2019 07:46:27 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Mar-2019 08:07:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/header.php on line 146
+[19-Mar-2019 08:07:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/header.php on line 146
+[19-Mar-2019 08:07:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/header.php on line 146
+[12-Apr-2019 10:10:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/index.php on line 246
+[29-Apr-2019 09:24:40 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/models/Model.php on line 62
+[29-Apr-2019 09:30:19 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common_where() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/Admin/sidebar.php on line 7
+[29-Apr-2019 09:30:33 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common_where() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/Admin/sidebar.php on line 7
+[29-Apr-2019 09:30:59 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common_where() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/Admin/sidebar.php on line 7
+[29-Apr-2019 09:31:52 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common_where() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/Admin/sidebar.php on line 7
+[29-Apr-2019 09:32:08 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common_where() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/Admin/sidebar.php on line 7
+[29-Apr-2019 09:33:05 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Admin.php on line 35
+[29-Apr-2019 09:33:06 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Admin.php on line 35
+[29-Apr-2019 09:33:11 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Admin.php on line 6508
+[29-Apr-2019 09:33:20 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Admin.php on line 6508
+[29-Apr-2019 09:33:26 UTC] PHP Fatal error:  Call to undefined method Adminmodel::select_common() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Admin.php on line 6508
+[29-Apr-2019 09:58:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Artnhub.php on line 3
+[29-Apr-2019 09:58:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Artnhub.php on line 3
+[30-Apr-2019 10:59:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/headcss.php on line 55
+[30-Apr-2019 10:59:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/headcss.php on line 55
+[01-May-2019 12:49:10 UTC] PHP Fatal error:  Cannot redeclare Artnhub::checkout() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Artnhub.php on line 1153
+[01-May-2019 12:49:11 UTC] PHP Fatal error:  Cannot redeclare Artnhub::checkout() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Artnhub.php on line 1153
+[01-May-2019 12:49:33 UTC] PHP Fatal error:  Cannot redeclare Artnhub::checkout() in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Artnhub.php on line 1153
+[01-May-2019 12:50:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/views/checkout.php on line 486
+[02-May-2019 12:32:58 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/models/Adminmodel.php on line 58
+[02-May-2019 12:56:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vlmldqr0po8c/public_html/explacia.in/wholesale/application/controllers/Admin.php on line 2571
+[12-Nov-2019 12:12:14 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:14:15 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:14:44 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:23:48 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:23:56 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:23:56 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:24:04 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:24:13 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:32:10 UTC] PHP Fatal error:  Cannot redeclare Artnhub::faq() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2071
+[12-Nov-2019 12:32:26 UTC] PHP Fatal error:  Cannot redeclare Artnhub::contact() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2104
+[21-Nov-2019 10:14:55 UTC] PHP Fatal error:  Cannot redeclare Artnhub::shoppingguide() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2100
+[21-Nov-2019 10:15:22 UTC] PHP Fatal error:  Cannot redeclare Artnhub::shoppingguide() in /home/s4l859nj1miz/public_html/wholesale/application/controllers/Artnhub.php on line 2100
+[08-Jan-2020 04:47:45 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/s4l859nj1miz/public_html/technowhizz.co.in/wholesale/wholesale.php on line 1
+[08-Jan-2020 04:47:45 UTC] PHP Notice:  Undefined index: name in /home/s4l859nj1miz/public_html/technowhizz.co.in/wholesale/wholesale.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 10
+[08-Jan-2020 04:47:45 UTC] PHP Notice:  Undefined index: file in /home/s4l859nj1miz/public_html/technowhizz.co.in/wholesale/wholesale.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 11
+[08-Jan-2020 04:47:45 UTC] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/s4l859nj1miz/public_html/technowhizz.co.in/wholesale/wholesale.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 14
+[25-Feb-2020 06:00:55 UTC] PHP Fatal error:  Cannot redeclare Artnhub::index2() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 260
+[25-Feb-2020 06:01:33 UTC] PHP Fatal error:  Cannot redeclare Artnhub::index2() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 260
+[25-Feb-2020 06:01:49 UTC] PHP Fatal error:  Cannot redeclare Artnhub::index2() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 260
+[26-Feb-2020 07:59:12 UTC] PHP Fatal error:  Cannot redeclare Admin::order_filter() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 9323
+[26-Feb-2020 08:00:02 UTC] PHP Fatal error:  Cannot redeclare Admin::order_filter() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 9323
+[26-Feb-2020 08:00:05 UTC] PHP Fatal error:  Cannot redeclare Admin::order_filter() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 9323
+[23-Mar-2020 10:20:06 UTC] PHP Fatal error:  Cannot redeclare Admin::neworder() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 250
+[23-Mar-2020 10:20:11 UTC] PHP Fatal error:  Cannot redeclare Admin::neworder() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 250
+[23-Mar-2020 10:20:14 UTC] PHP Fatal error:  Cannot redeclare Admin::neworder() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 250
+[23-Mar-2020 10:20:21 UTC] PHP Fatal error:  Cannot redeclare Admin::neworder() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 250
+[23-Mar-2020 10:20:30 UTC] PHP Fatal error:  Cannot redeclare Admin::neworder() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 250
+[23-Mar-2020 12:04:02 UTC] PHP Fatal error:  Cannot redeclare Admin::neworder() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 251
+[23-Mar-2020 12:04:22 UTC] PHP Fatal error:  Cannot redeclare Admin::neworder() in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Admin.php on line 251
+[14-Apr-2020 11:29:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:29:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:29:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:30:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:09 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:16 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:41:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:42:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:42:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:50:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:50:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:50:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:50:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:50:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:50:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 11:51:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:00:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:09 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:09 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:15:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:21:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:21:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:21:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:31:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:31:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:31:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:31:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:32:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:32:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:38:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[14-Apr-2020 12:39:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rsum1kmnoljj/public_html/wholesale/application/third_party/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 3
+[22-Oct-2020 06:03:22 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 24421
+[22-Oct-2020 06:03:29 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 24421
+[22-Oct-2020 06:03:32 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 24421
+[22-Oct-2020 06:03:36 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 24421
+[22-Oct-2020 06:03:39 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 24421
+[22-Oct-2020 06:03:41 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 24421
+[22-Oct-2020 06:03:47 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rsum1kmnoljj/public_html/wholesale/application/controllers/Artnhub.php on line 24421
+[16-Jan-2021 05:02:03 UTC] PHP Fatal error:  Cannot redeclare Admin::xlscreation_direct() in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Admin.php on line 13747
+[16-Jan-2021 05:02:45 UTC] PHP Fatal error:  Cannot redeclare Admin::xlscreation_direct() in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Admin.php on line 13747
+[21-Jan-2021 08:13:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Excel.php on line 960
+[21-Jan-2021 08:13:16 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Excel.php on line 960
+[21-Jan-2021 08:14:00 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Excel.php on line 961
+[21-Jan-2021 08:14:03 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Excel.php on line 961
+[21-Jan-2021 08:14:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Excel.php on line 961
+[21-Jan-2021 08:15:35 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Excel.php on line 961
+[21-Jan-2021 08:15:37 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Excel.php on line 961
+[28-Jan-2021 04:14:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Product.php on line 650
+[28-Jan-2021 04:14:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Product.php on line 650
+[28-Jan-2021 04:16:03 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Product.php on line 634
+[28-Jan-2021 04:16:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Product.php on line 634
+[28-Jan-2021 04:16:19 UTC] PHP Fatal error:  Cannot use [] for reading in /home/fvi0gae77cie/public_html/wholesale/application/controllers/Product.php on line 634

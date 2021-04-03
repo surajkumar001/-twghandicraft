@@ -1,0 +1,48 @@
+[15-Dec-2020 02:27:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:220
+Stack trace:
+#0 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/functions.php(120): PHPExcel_Writer_Excel2007->save('/tmp/phpxltmpls...')
+#1 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/direct.php(4): xlscreation_direct()
+#2 {main}
+  thrown in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
+[15-Dec-2020 02:27:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:220
+Stack trace:
+#0 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/functions.php(120): PHPExcel_Writer_Excel2007->save('/tmp/phpxltmpGu...')
+#1 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/direct.php(4): xlscreation_direct()
+#2 {main}
+  thrown in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
+[15-Dec-2020 02:27:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:220
+Stack trace:
+#0 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/functions.php(120): PHPExcel_Writer_Excel2007->save('/tmp/phpxltmpIF...')
+#1 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/direct.php(4): xlscreation_direct()
+#2 {main}
+  thrown in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
+[15-Dec-2020 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:220
+Stack trace:
+#0 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/functions.php(121): PHPExcel_Writer_Excel2007->save('/tmp/phpxltmpbJ...')
+#1 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/direct.php(4): xlscreation_direct()
+#2 {main}
+  thrown in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
+[15-Dec-2020 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:220
+Stack trace:
+#0 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/functions.php(121): PHPExcel_Writer_Excel2007->save('/tmp/phpxltmpKs...')
+#1 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/direct.php(4): xlscreation_direct()
+#2 {main}
+  thrown in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
+[15-Dec-2020 02:42:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:220
+Stack trace:
+#0 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/functions.php(121): PHPExcel_Writer_Excel2007->save('/tmp/phpxltmpfY...')
+#1 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/direct.php(4): xlscreation_direct()
+#2 {main}
+  thrown in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
+[15-Dec-2020 02:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:220
+Stack trace:
+#0 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/functions.php(123): PHPExcel_Writer_Excel2007->save('/tmp/phpxltmpZO...')
+#1 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/direct.php(4): xlscreation_direct()
+#2 {main}
+  thrown in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
+[15-Dec-2020 02:52:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:220
+Stack trace:
+#0 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/functions.php(123): PHPExcel_Writer_Excel2007->save('/tmp/phpxltmpTh...')
+#1 /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/direct.php(4): xlscreation_direct()
+#2 {main}
+  thrown in /home/fvi0gae77cie/public_html/wholesale/phpexcel_gd/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 220
